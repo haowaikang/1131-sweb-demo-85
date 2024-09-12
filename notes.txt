@@ -1,0 +1,6 @@
+$ git status
+$ git add .
+$ git config --global user.email "haowaikang@gmail.com"
+$ git config --global user.name "haowaikang"
+$ git commit -m "W01-P1: Github URL"
+$ git push
